@@ -8,7 +8,9 @@ The code uses 4 models:
 2) Random Forest Classifier
 3) KNN Classifier
 4) Logistic Regression
+
 And provides with accuracy and prediction for the disease for each model.
+
 The code also plots:
 1) Confusion Matrix
 2) ROC Curve
