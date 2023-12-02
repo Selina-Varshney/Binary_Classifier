@@ -4,7 +4,7 @@ This project uses a heart disease dataset downloaded from kaggle, where the attr
 1 = Person has a Heart Disease </br>
 0 = Person does not have a Heart disease
 
-The dataset is then split in 80% training and 20% test data.
+The dataset is then split in 80% training and 20% test data.</br>
 The code uses 4 models:
 1) Decision Tree Classifier
 2) Random Forest Classifier
