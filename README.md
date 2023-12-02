@@ -1,7 +1,7 @@
 # Heart Disease Prediction
 This project uses a heart disease dataset downloaded from kaggle, where the attribute 'target' is a binary variable:
 
-1 = Person has a Heart Disease
+1 = Person has a Heart Disease </br>
 0 = Person does not have a Heart disease
 
 The dataset is then split in 80% training and 20% test data.
